@@ -58,9 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddarth-Sajeev22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarth-Sajeev22&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddarth-Sajeev22&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=100&section=footer" width="100%" />
