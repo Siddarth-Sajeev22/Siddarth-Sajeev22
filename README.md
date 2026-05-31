@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=140&section=header&text=Siddarth%20Sajeev&fontSize=40&fontColor=ffffff&fontAlign=50&desc=Software%20Developer%20%40%20Air%20India&descSize=18&descFontColor=ffffff&descAlign=50" width="100%" />
 
-<p align="center">Backend & AI Engineer &nbsp;·&nbsp; Kerala, India</p>
-<p align="center">Building production AI systems — multi-agent platforms, RAG pipelines, and backend services at scale.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Multi-Agent+AI+Systems+Builder;RAG+%26+Document+Intelligence+Engineer;Backend+Engineer+%7C+C%23+%2F+.NET+%2F+Azure;LangGraph+%7C+Vector+Databases+%7C+LLMs" alt="Typing SVG" />
+</p>
+
+<p align="center">Kerala, India &nbsp;·&nbsp; Building production AI systems that handle real-world scale</p>
 
 <br/>
 
@@ -39,10 +42,10 @@
 
 | Project | What it is |
 |---|---|
-| **AI.G** | Air India's production multi-agent AI platform — LangGraph-orchestrated agents with RAG over custom LLMs, handling real customer workflows |
-| **Graph RAG Pipeline** | Evolving document retrieval beyond cosine similarity toward graph-based retrieval using custom embedding models |
-| **Voice Bot Platform** | Production voice bots handling live customer interactions with intent classification and LLM-backed conversation flows |
-| **eZ Booking** | Backend services for Air India's airline booking platform, built to handle high-volume transactional workflows |
+| **AI.G** | Air India's production multi-agent AI platform — LangGraph-orchestrated agents with RAG over custom LLMs, serving real customer workflows across multiple intents |
+| **Graph RAG Pipeline** | Next-gen document retrieval moving beyond cosine similarity — custom embedding models feeding into graph-based retrieval for higher precision |
+| **Voice Bot Platform** | End-to-end production voice bots handling live customer interactions with LLM-backed intent classification and conversational flow management |
+| **eZ Booking** | Scalable backend services for Air India's airline booking platform, built to sustain high transactional volume |
 
 ---
 
