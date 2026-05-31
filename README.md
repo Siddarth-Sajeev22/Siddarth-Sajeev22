@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=140&section=header&text=Siddarth%20Sajeev&fontSize=40&fontColor=ffffff&fontAlign=50&desc=Software%20Developer%20%40%20Air%20India&descSize=18&descFontColor=ffffff&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=120&section=header&text=Siddarth%20Sajeev&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Multi-Agent+AI+Systems+Builder;RAG+%26+Document+Intelligence+Engineer;Backend+Engineer+%7C+C%23+%2F+.NET+%2F+Azure;LangGraph+%7C+Vector+Databases+%7C+LLMs" alt="Typing SVG" />
